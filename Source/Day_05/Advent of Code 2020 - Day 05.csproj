@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>mbaaz.AdventOfCode2020.Day05</RootNamespace>
+    <AssemblyName>mbaaz.AdventOfCode2020.Day05</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Advent of Code 2020 - Common.csproj" />
+  </ItemGroup>
+
+</Project>
