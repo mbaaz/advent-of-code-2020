@@ -1,4 +1,4 @@
-﻿namespace mbaaz.AdventOfCode2020.Day02
+﻿namespace mbaaz.AdventOfCode2020.Day02.Models
 {
     public record PasswordRecord 
     {

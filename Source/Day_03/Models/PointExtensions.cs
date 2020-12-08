@@ -1,4 +1,4 @@
-﻿namespace mbaaz.AdventOfCode2020.Day03
+﻿namespace mbaaz.AdventOfCode2020.Day03.Models
 {
     public static class PointExtensions
     {

@@ -1,7 +1,7 @@
-﻿using System.Linq;
-using System.Text.RegularExpressions;
+﻿using System.Text.RegularExpressions;
+using mbaaz.AdventOfCode2020.Common.Models;
 
-namespace mbaaz.AdventOfCode2020.Day02
+namespace mbaaz.AdventOfCode2020.Day02.Models
 {
     public static class PasswordRecordExtensions
     {

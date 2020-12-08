@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace mbaaz.AdventOfCode2020.Day02
+namespace mbaaz.AdventOfCode2020.Common.Models
 {
     public record Range<T> 
         where T: IComparable

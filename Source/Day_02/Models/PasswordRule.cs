@@ -1,4 +1,6 @@
-﻿namespace mbaaz.AdventOfCode2020.Day02
+﻿using mbaaz.AdventOfCode2020.Common.Models;
+
+namespace mbaaz.AdventOfCode2020.Day02.Models
 {
     public record PasswordRule 
     {

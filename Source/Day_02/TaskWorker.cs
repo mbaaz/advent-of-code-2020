@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using mbaaz.AdventOfCode2020.Common.Settings;
 using mbaaz.AdventOfCode2020.Common.Tasks;
+using mbaaz.AdventOfCode2020.Day02.Models;
 
 namespace mbaaz.AdventOfCode2020.Day02
 {
