@@ -40,14 +40,14 @@ namespace mbaaz.AdventOfCode2020.Common.Tasks
             Exit();
         }
 
-        public void Exit()
+        public static void Exit()
         {
             Console.WriteLine("");
             Console.Write("Press any key to exit: ");
             Console.Read();
         }
 
-        private string GetResult(Func<IResult> action)
+        private static string GetResult(Func<IResult> action)
         {
             try
             {
@@ -58,11 +58,11 @@ namespace mbaaz.AdventOfCode2020.Common.Tasks
             {
                 return $"App Error: {ex.Message}";
             }
-            catch (NotImplementedException ex)
+            catch (NotImplementedException)
             {
                 return "ERROR: This has not been solved yet!";
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 return "Internal Error - Unknown cause!";
             }
