@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Advent of Code 2020 - Day 0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Advent of Code 2020 - Day 07", "Day_07\Advent of Code 2020 - Day 07.csproj", "{6DB3F1B6-38EB-4448-BD77-1F72DCDEDC28}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Advent of Code 2020 - Day 08", "Day_08\Advent of Code 2020 - Day 08.csproj", "{82E0A422-9892-46F5-BB87-A1F5D3BEB8C7}"
+EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Settings", "Settings", "{A1F28DBE-A722-4AC1-80FB-E37B7CFD53C6}"
 	ProjectSection(SolutionItems) = preProject
 		Settings\appsettings.json = Settings\appsettings.json
@@ -62,6 +64,10 @@ Global
 		{6DB3F1B6-38EB-4448-BD77-1F72DCDEDC28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DB3F1B6-38EB-4448-BD77-1F72DCDEDC28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DB3F1B6-38EB-4448-BD77-1F72DCDEDC28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82E0A422-9892-46F5-BB87-A1F5D3BEB8C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82E0A422-9892-46F5-BB87-A1F5D3BEB8C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82E0A422-9892-46F5-BB87-A1F5D3BEB8C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82E0A422-9892-46F5-BB87-A1F5D3BEB8C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
